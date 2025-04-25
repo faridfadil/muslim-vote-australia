@@ -1628,6 +1628,9 @@ const PartyReportPage = () => {
             Based on 2025 publicly available data (news, interviews, articles,
             official websites, etc)
           </p>
+          <p className="text-sm text-gray-500 mt-2">
+            For all enquiries please email farid@muslimvote.au
+          </p>
           <p className="text-xs text-gray-400">
             This report is for informational purposes only and does not
             constitute an endorsement of any political party.

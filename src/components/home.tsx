@@ -274,7 +274,7 @@ const HomePage = () => {
             official websites, etc)
           </p>
           <p className="text-sm text-gray-500 mt-2">
-            For all enquiries please email hello@muslimvote.au
+            For all enquiries please email farid@muslimvote.au
           </p>
         </div>
       </footer>
