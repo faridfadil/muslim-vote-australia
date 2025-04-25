@@ -39,6 +39,9 @@ const HomePage = () => {
               alt="Muslim Vote Logo"
               className="h-20 md:h-32 mx-auto"
             />
+            <p className="text-sm text-gray-500 mt-2 italic">
+              For best viewing experience, please view this tool on desktop
+            </p>
           </div>
         </div>
       </header>
